@@ -1,8 +1,8 @@
 ### Hi there, I'm Hajira Zainab 👋
 
 #### 🔗 About Me
-I'm currently learning programming at IYF Weekend Academy. I'm interested in technology and my goal is to become a data analyst.
-This repo is for **Week 02 - CSS Mastery** of IYF S12.
+I'm currently learning programming at IYF Weekend Academy.
+I'm interested in technology and my goal is to become a data analyst.
 
 #### 🛠️ Skills I'm Building
 - Git and GitHub
