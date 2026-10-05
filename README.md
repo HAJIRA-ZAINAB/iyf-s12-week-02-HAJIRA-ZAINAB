@@ -1,24 +1,40 @@
-### Hi there, I'm Hajira Zainab 👋
+# Week-02: CSS mastery
 
-#### 🔗 About Me
-I'm currently learning programming at IYF Weekend Academy.
-I'm interested in technology and my goal is to become a data analyst.
+## author
+- Name: HAJIRA ZAINAB 
+- Github: [@HAJIRA-ZAINAB](https://github.com/HAJIRA-ZAINAB)
+- Date: October 4, 2026
 
-#### 🛠️ Skills I'm Building
-- Git and GitHub
+## Project Description
+- Transforming my semantic HTML portfolio into a fully responsive, beautifully styled website.
+- This project implements modern CSS techniques including Flexbox and CSS grind
+
+## Technologies Used
 - HTML
 - CSS
-- JavaScript
+- CSS grid
+- Flexbox
+- Google Fonts
+  
+## Features
+- Fully responsive navigation
+- CSS grid for photo gallery and projects
+- Flexbox layout for navbar , card row and footer
+- Custom color schemes with CSS variables
 
-#### 🎯 My Goal
-- Become a data analyst
-- Continue improving my programming skills
+## How to Run
+1. clone this repository
+2. open `index.html` in your browser
 
-#### 💖 Hobbies
-- Cooking
-- Dancing
-- Helping others
+## Lessons Learned
+- CSS Box Model and fixed layout issues with box-sizing
+- Practiced Flexbox and Grind
 
-#### 📫 How to Reach Me
-- Email: hajirazainab1445@gmail.com
-- GitHub: HAJIRA-ZAINAB
+## Challenges Faced
+- Difficulty centering elements and making galley responsive, solved using CSS grid
+- Box model with width issues, solved with `box-sizing: border-box`
+
+## Live Demo
+[View Live Demo](https://HAJIRA-ZAINAB.github.io/iyf-s12-week-02-HAJIRA-ZAINAB/)
+
+  
