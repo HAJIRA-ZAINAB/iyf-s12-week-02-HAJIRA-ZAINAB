@@ -24,7 +24,7 @@
 
 ## How to Run
 1. clone this repository
-2. open `index.html` in your browser
+2. git clone https://github.com/HAJIRA-ZAINAB/iyf-s12-week-02-HAJIRA-ZAINAB.git
 
 ## Lessons Learned
 - CSS Box Model and fixed layout issues with box-sizing
